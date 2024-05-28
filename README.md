@@ -33,8 +33,7 @@
 * import mysql.connector
 ## Project Feature
 ## Collection of data:
-    Clone the PhonePe Pulse data from the GitHub repository to your local directory for easy access and streamlined data collection. Effortlessly explore a diverse range of insightful metrics and analytics, 
-    providing you with comprehensive information. Make informed decisions with the most current data, ensuring precision in your analyses and strategies.
+    
    
     
   
