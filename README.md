@@ -14,3 +14,27 @@
 * mysql-connector-python 
 * Streamlit 
 * Plotly
+
+## TECHNOLOGY USED
+* Python 3.9.
+* Youtube API
+* MySQL 8.0
+* Streamlit
+* Plotly
+
+## Packages and Libraries
+* import os
+* import json
+* import requests
+* import pandas as pd
+* import plotly.express as px
+* import streamlit as st
+* from streamlit_option_menu import option_menu
+* import mysql.connector
+## Project Feature
+### Collection of data:
+    * Clone the PhonePe Pulse data from the GitHub repository to your local directory for easy access and streamlined data collection. Effortlessly explore a diverse range of insightful metrics and analytics, 
+     providing you with comprehensive information. Make informed decisions with the most current data, ensuring precision in your analyses and strategies.
+    * Link-(https://github.com/PhonePe/pulse/tree/master/data/aggregated/transaction/country/india/state)
+    
+  
