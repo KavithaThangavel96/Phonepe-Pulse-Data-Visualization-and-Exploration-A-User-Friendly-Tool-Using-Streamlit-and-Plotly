@@ -6,3 +6,11 @@
    * Furthermore, an interactive dashboard is developed with Streamlit and Plotly, incorporating geoplots and various visualization elements to enhance data exploration and insights.
 
 ## Domain: FinTech
+
+## Skills Takeaway 
+* Github Cloning
+* Python Scripting 
+* MySQL Database
+* mysql-connector-python 
+* Streamlit 
+* Plotly
